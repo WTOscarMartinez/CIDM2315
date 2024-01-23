@@ -7,7 +7,7 @@ class Program
         when X = 2.5, Y = 3.3, by calculating Z and printing it out.*/
 
         //Declaring as double type variables and setting x and y constants
-        const double Z = 2.5, Y = 3.3;
+        const double X = 2.5, Y = 3.3;
 
         //Declaring Z and setting up the equation
         double Z = 4 * X * X + 3 * Y;
