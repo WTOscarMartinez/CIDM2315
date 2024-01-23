@@ -13,6 +13,6 @@ class Program
         double Z = 4 * X * X + 3 * Y;
 
         //Printing out results
-        Console.WriteLine("X = {0}, Y= {1}\r\nThe value of Z is: {2}", Z,Y,Z);
+        Console.WriteLine("X = {0}, Y= {1}\r\nThe value of Z is: {2}", X,Y,Z);
     }
 }
