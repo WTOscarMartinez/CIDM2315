@@ -58,7 +58,7 @@ class Program
                     loop iteration it will write the input the number otherwise it will place a space*/
                     if(j <= i) 
                     {
-                        Console.Write(N);
+                        Console.Write("*");
                     }
                     else 
                     {
@@ -81,7 +81,7 @@ class Program
                     loop iteration it will write the input the number otherwise it will place a space*/
                     if(j <= i) 
                     {
-                        Console.Write(N);
+                        Console.Write("*");
                     }
                     else 
                     {
