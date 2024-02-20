@@ -1,6 +1,4 @@
-﻿using System.Security.Cryptography;
-
-namespace HW5;
+﻿namespace HW5;
 class Program
 {
     static void Main(string[] args)
